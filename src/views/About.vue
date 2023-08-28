@@ -1,7 +1,7 @@
 <template>
   <h1 class="title">{{ msg }}</h1>
   <button @click="plusCount">count is: {{ count }}</button>
-  <p>Edit <code>components/HelloWorld.vue</code> to test hot module replacement.</p>
+  <p>Edit <code>haoye</code> to test hot module replacement.</p>
 </template>
 
 <script setup>
@@ -15,7 +15,7 @@ const plusCount = () => {
 }
 </script>
 
-<style lang="sass" scoped>
+<style lang="scss" scoped>
 .title{
   font-size: 18px;
 }

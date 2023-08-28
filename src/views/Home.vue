@@ -15,7 +15,7 @@ const plusCount = () => {
 }
 </script>
 
-<style lan="sass" scoped>
+<style lang="scss" scoped>
 .title{
   font-size: 18px;
 }
