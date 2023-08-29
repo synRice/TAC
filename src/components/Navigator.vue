@@ -33,6 +33,8 @@ const goPage = (path) => {
 
 <style lang="scss" scoped>
 .top-box{
+    position: relative;
+    z-index: 1000;
     padding: 0 40px;
     height: 70px;
     width: 100%;
